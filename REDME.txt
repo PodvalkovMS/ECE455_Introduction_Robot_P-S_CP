@@ -1,0 +1,7 @@
+Matlab code framefind.m read file in the same folder object.key and robot.key and create Hermit polynomials for 2 pont to find a frame between key frame and write answer in file robot/robot.ang and object/object.traj 
+1)
+A) framefind.m
+b) the function to create polynomials and understanding how to create polynomials and what need to do
+c) code can be optimized by 
+1) use loop for 1 to t only once and execute all function inside it
+2) if we use the same key frame and change t part of code can be precalculated such as polynomials
